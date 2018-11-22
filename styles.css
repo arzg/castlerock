@@ -55,6 +55,12 @@ p {
   margin-bottom: 1em     /* Leave space after p's equal to the font size */
 }
 
+/* Lower contrast by making the text dark grey and the background light grey */
+body {
+  color: #444;
+  background-color: #eee;
+}
+
 /* Use the Small Text optical size in mobile view */
 @media all and (max-width:600px) {
   body { font-family: arno-pro-small-text }
