@@ -55,10 +55,11 @@ p {
   margin-bottom: 1em     /* Leave space after p's equal to the font size */
 }
 
-/* Lower contrast by making the text dark grey and the background light grey */
+/* Lower contrast by making the text dark brown and the background light
+ * grey/sepia */
 body {
-  color: #444;
-  background-color: #eee;
+  color: #251705;
+  background-color: #f5f3f0;
 }
 
 /* Use the Small Text optical size in mobile view */
