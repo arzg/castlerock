@@ -97,6 +97,7 @@ body {
 }
 
 #mobilebutton {
+  display: inline;
   position: relative;
   bottom: -110px;
 }
