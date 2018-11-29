@@ -83,6 +83,7 @@ body {
 #mobiletitle {
   position: relative;
   top: 15px;
+  margin-right: 3rem;
   font-family: arno-pro-small-text;
   font-size: 1.1rem;
 }
