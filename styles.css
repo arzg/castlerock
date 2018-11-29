@@ -306,3 +306,7 @@ body {
       -ms-transition: opacity 0.7s ease-in-out;
           transition: opacity 0.7s ease-in-out;
 }
+
+/* Hero image */
+
+#hero { padding-bottom: 0.75rem }
